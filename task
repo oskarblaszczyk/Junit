@@ -1,0 +1,11 @@
+	// Stworz klase PRacownik (imie nazwisko pensja) i Firma (nazwa) *-*
+	// przetestuj:
+	// - czy imie pracownika sie zgadza
+	// - czy dlugosc nazwy firmy sie zgadza
+	// - czy pensja pracownika sie zgadza (delta!)
+	// - czy licznosc asocjacji sie zgadza
+	// - czy licznosc ekstnesji sie zgadza
+	// - czy pensja wyliczalna dla pracownika sie zgadza
+	// - czy pensja ktora wyplaca firma wszystkim pracownikom sie zgafdza
+
+	pracownik - samochod - silnik - silnik ma czesci
